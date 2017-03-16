@@ -1,0 +1,2 @@
+Git has a mutable index.
+Git has a mutable .
